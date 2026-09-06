@@ -1,4 +1,4 @@
-# 👋 Hola, soy Manuel Cervera (Nueljs)
+# 👋 Hola, soy Manuel Cervera
 
 Desarrollador web y de software en formación, apasionado por crear **aplicaciones interactivas** y **soluciones funcionales**.  
 Actualmente estoy ampliando mis conocimientos en **C** en el campus 42, mientras consolido mis habilidades en desarrollo web y programación backend.
