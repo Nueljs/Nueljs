@@ -10,7 +10,7 @@ Desarrollador Python y C en formación en 42 Málaga. Me interesa construir sist
 
 ## 🛠️ Stack
 
-- **Python:** tipado estático, POO, Pydantic, algoritmos de grafos, mypy, flake8, pytest
+- **Python:** tipado estático, POO, Pydantic, algoritmos de grafos, mypy, flake8
 - **C:** [Libft](https://github.com/Nueljs/Libft), [ft_printf](https://github.com/Nueljs/ft_printf), [get_next_line](https://github.com/Nueljs/get_next_line)
 - **Herramientas:** Git, Linux, Makefile
 - **También:** JavaScript, React, HTML/CSS
