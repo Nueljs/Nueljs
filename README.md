@@ -1,20 +1,76 @@
+# 👋 Hi, I'm Manuel Cervera
+
+**Python & C developer in training at 42 Málaga**, focused on software development, algorithms, and problem-solving.
+
+I enjoy building systems where there is real logic behind the application, particularly **graph algorithms, procedural generation, simulations, and LLM-based systems**. My current focus is deepening my Python skills through hands-on projects at 42.
+
+## 🐍 Featured Python Projects
+
+### [Call Me Maybe](https://github.com/macerver9/Call-me-maybe)
+
+A function-calling system that converts natural-language requests into structured JSON function calls using **Qwen3-0.6B** and **token-level constrained decoding**. The implementation uses finite-state machines, Pydantic, static typing, and custom token generation logic.
+
+**Python · LLMs · Constrained Decoding · Pydantic · Finite-State Machines**
+
+### [Fly-in](https://github.com/macerver9/Fly-in)
+
+An autonomous drone routing simulator that moves a fleet through a capacity-constrained network in the minimum number of simulation turns. The project uses **dynamic BFS, graph traversal, state machines, temporal routing, and strict OOP design**, with a custom terminal visualizer.
+
+**Python · Graph Algorithms · OOP · Type Safety**
+
+### [A-Maze-ing](https://github.com/macerver9/A-maze-ing)
+
+A collaborative maze generator and solver developed at 42. The project uses **DFS-based recursive backtracking**, pathfinding, reproducible generation with seeds, bitwise wall encoding, and a reusable Python package.
+
+**Python · Algorithms · mypy · pytest**
+
+## 🛠️ Technical Stack
+
+**Python:** OOP · Data Structures · Algorithms · Pydantic · mypy · flake8
+
+**C:** [Libft](https://github.com/macerver9/Libft) · [ft_printf](https://github.com/macerver9/ft_printf) · [get_next_line](https://github.com/macerver9/get_next_line)
+
+**Tools:** Git · Linux · Makefile · Docker · Valgrind
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/manuel-cervera-lara/) · [GitHub](https://github.com/macerver9)
+
+
 # 👋 Hola, soy Manuel Cervera
 
-Desarrollador Python y C en formación en 42 Málaga. Me interesa construir sistemas donde hay algoritmos y lógica de fondo: generación procedural, simulación y control de modelos de lenguaje.
+**Desarrollador de Python y C en formación en 42 Málaga**, centrado en desarrollo de software, algoritmos y resolución de problemas.
 
-## 🐍 Proyectos en Python
+Me interesa especialmente construir sistemas donde exista una lógica técnica detrás de la aplicación, especialmente en **algoritmos de grafos, generación procedural, simulación y sistemas basados en LLMs**. Actualmente estoy profundizando en Python mediante proyectos prácticos dentro de 42.
 
-- **[Call-me-maybe](https://github.com/Nueljs/Call-me-maybe)** – Traduce peticiones en lenguaje natural a llamadas a funciones en JSON válido mediante *constrained decoding* sobre Qwen3-0.6B: una máquina de estados restringe los tokens permitidos en cada paso. Pydantic, uv, flake8, mypy.
-- **[Fly-in](https://github.com/Nueljs/Fly-in)** – Enrutamiento de una flota de drones por una red con límites de capacidad en el mínimo de turnos: BFS adaptado a tráfico temporal, máquina de estados y visualizador 2D en terminal. POO y tipado estricto.
-- **[A-Maze-ing](https://github.com/Nueljs/A-maze-ing)** – Generador de laberintos (DFS con backtracking, semillas reproducibles, solver de camino más corto) empaquetado como librería reutilizable. Proyecto en equipo con Git.
+## 🐍 Proyectos destacados en Python
 
-## 🛠️ Stack
+### [Call Me Maybe](https://github.com/macerver9/Call-me-maybe)
 
-- **Python:** tipado estático, POO, Pydantic, algoritmos de grafos, mypy, flake8
-- **C:** [Libft](https://github.com/Nueljs/Libft), [ft_printf](https://github.com/Nueljs/ft_printf), [get_next_line](https://github.com/Nueljs/get_next_line)
-- **Herramientas:** Git, Linux, Makefile
-- **También:** JavaScript, React, HTML/CSS
+Sistema de function calling que transforma peticiones en lenguaje natural en llamadas a funciones estructuradas en JSON utilizando **Qwen3-0.6B** y **constrained decoding a nivel de token**. El proyecto utiliza máquinas de estados, Pydantic, tipado estático y lógica propia de generación de tokens.
+
+**Python · LLMs · Constrained Decoding · Pydantic · Finite-State Machines**
+
+### [Fly-in](https://github.com/macerver9/Fly-in)
+
+Simulador de enrutamiento autónomo de drones que mueve una flota por una red con restricciones de capacidad en el mínimo número de turnos. Utiliza **BFS dinámico, algoritmos de grafos, máquinas de estados, routing temporal y diseño OOP estricto**, junto con un visualizador propio en terminal.
+
+**Python · Graph Algorithms · OOP · Type Safety**
+
+### [A-Maze-ing](https://github.com/macerver9/A-maze-ing)
+
+Generador y solver de laberintos desarrollado de forma colaborativa en 42. Utiliza **DFS con recursive backtracking**, búsqueda de caminos, generación reproducible mediante seeds, codificación de paredes mediante operaciones de bits y un paquete Python reutilizable.
+
+**Python · Algorithms · mypy · pytest**
+
+## 🛠️ Stack técnico
+
+**Python:** OOP · Estructuras de datos · Algoritmos · Pydantic · mypy · flake8
+
+**C:** [Libft](https://github.com/macerver9/Libft) · [ft_printf](https://github.com/macerver9/ft_printf) · [get_next_line](https://github.com/macerver9/get_next_line)
+
+**Herramientas:** Git · Linux · Makefile · Docker · Valgrind
 
 ## 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/manuel-cervera-lara/)
+[LinkedIn](https://www.linkedin.com/in/manuel-cervera-lara/) · [GitHub](https://github.com/macerver9)
